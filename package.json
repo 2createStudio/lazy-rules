@@ -1,0 +1,20 @@
+{
+  "name": "lazy-rules",
+  "version": "1.0.0",
+  "description": "Generates CSS rules for your icons",
+  "main": "index.js",
+  "license": "MIT",
+  "bin": "./index.js",
+  "dependencies": {
+    "caporal": "^0.5.0",
+    "fs-promise": "^2.0.2",
+    "globby": "^6.1.0",
+    "image-size": "^0.5.1",
+    "lodash.groupby": "^4.6.0",
+    "lodash.kebabcase": "^4.1.1",
+    "lodash.map": "^4.6.0",
+    "lodash.sortby": "^4.7.0",
+    "slash": "^1.0.0",
+    "watch": "^1.0.2"
+  }
+}
