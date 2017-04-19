@@ -4,6 +4,7 @@
 
 ```bashp
 lazy-rules 'images/*.png' css/style.css
+lazy-rules 'images/*.png' css/style.css --watch
 ```
 
 **Output**
